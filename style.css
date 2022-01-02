@@ -1,0 +1,26 @@
+body{
+    font-family: "chalkboard";
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    font-size: 40px;
+    margin-top: 0px;
+}
+.note{
+    margin-top: 0px;
+    width: 100%;
+    font-size: 20px;
+}
+#input{
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 18px 18px yellow;
+    margin-top: 350px;
+}
